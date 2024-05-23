@@ -1,0 +1,130 @@
+- type: listing
+  id: ADTBoberM90
+  name: boobr-m90-name
+  description: boobr-m90-desc
+  icon: { sprite: /Textures/Objects/Weapons/Guns/Rifles/carbine.rsi, state: base }
+  productEntity: WeaponCaseNTM90
+  cost:
+    Productunit: 30
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberLecter
+  name: boobr-lecter-name
+  description: boobr-lecter-desc
+  icon: { sprite: /Textures/Objects/Weapons/Guns/Rifles/lecter.rsi, state: icon }
+  productEntity: WeaponCaseNTLecter
+  cost:
+    Productunit: 22
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberPulse
+  name: boobr-pulse-name
+  description: boobr-pulse-desc
+  icon: { sprite: /Textures/Objects/Weapons/Guns/Battery/pulse_carbine.rsi, state: icon }
+  productEntity: WeaponCaseNTnPulseCarbine
+  cost:
+    Productunit: 27
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberMateba
+  name: boobr-mateba-name
+  description: boobr-mateba-desc
+  icon: { sprite: /Textures/Objects/Weapons/Guns/Revolvers/mateba.rsi, state: icon }
+  productEntity: WeaponCaseNTMateba
+  cost:
+    Productunit: 10
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberAP
+  name: boobr-ap-name
+  description: boobr-ap-desc
+  productEntity: WeaponCaseNTAPAmmo
+  cost:
+    Productunit: 10
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberDisabler
+  name: boobr-disabler-name
+  description: boobr-disabler-desc
+  icon: { sprite: Objects/Weapons/Guns/Battery/disabler.rsi, state: base }
+  productEntity: WeaponCaseNTDisabler
+  cost:
+    Productunit: 5
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberDeagle
+  name: boobr-deagle-name
+  description: boobr-deagle-desc
+  icon: { sprite: ADT/Objects/Weapons/Guns/Pistols/deser_eagle.rsi, state: base }
+  productEntity: WeaponCaseNTDeagle
+  cost:
+    Productunit: 8
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberIonRifle
+  name: boobr-ion-name
+  description: boobr-ion-desc
+  icon: { sprite: ADT/Objects/Weapons/Guns/Battery/ion_rifle.rsi, state: base }
+  productEntity: WeaponCaseNTIonRifle
+  cost:
+    Productunit: 10
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberFNFAL
+  name: boobr-FN-name
+  description: boobr-FN-desc
+  icon: { sprite: ADT/Objects/Weapons/Guns/Rifels/fn_fal.rsi, state: base }
+  productEntity: WeaponCaseNTFNFAL
+  cost:
+    Productunit: 15
+  categories:
+  - ADTUplinkERTWeapon
+
+- type: listing
+  id: ADTBoberBulldog
+  name: boobr-bulldog-name
+  description: boobr-bulldog-desc
+  icon: { sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi, state: base }
+  productEntity: WeaponCaseBulldog
+  cost:
+    Productunit: 25
+  categories:
+  - ADTUplinkERTWeapon
+
+# misc
+
+- type: listing
+  id: ADTBoberShieldPunch
+  name: boobr-riot-shield-name
+  description:  boobr-riot-shield-desc
+  productEntity: RiotShield
+  cost:
+    Productunit: 10
+  categories:
+  - ADTUplinkERTMisc
+
+- type: listing
+  id: ADTBoberShieldBullet
+  name: boobr-bullet-shield-name
+  description:  boobr-bullet-shield-desc
+  productEntity: RiotBulletShield
+  cost:
+    Productunit: 15
+  categories:
+  - ADTUplinkERTMisc
